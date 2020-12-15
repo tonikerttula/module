@@ -1,4 +1,4 @@
-install_git
+install:
   pkg.installed:
     - pkgs:
       - git
